@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=包吃包住;混吃等死;混就完事&center=true&size=27" alt="Typing SVG" />
-</div>
 # 🔱 About A7cc
 
 - Born in 🌏
@@ -24,6 +21,12 @@ Here are some ideas to get you started:
 - Any problem that can be solved by tools, never manually handled 🖐
 
 # ✨ Contributed
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A7cc/A7cc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A7cc/A7cc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A7cc/A7cc/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![a7cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7cc&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7cc&layout=compact&theme=tokyonight)
 
