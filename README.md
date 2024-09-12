@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # 🔱 About A7cc
 
-- Born in 🌏
-- Cybersecurity Worker 😎
-- I hope to make a little progress every day compared to yesterday 👊
-- Advocate good project open source ✨
-- Any problem that can be solved by tools, never manually handled 🖐
+- 出生在 🌏
+- 一个吊儿郎当的安全(开发|研究)从业者 😎
+- 希望每天都进步一点点 👊
+- 倡导好的项目开源 ✨
+- 希望任何可以用工具解决的问题，都不要用手工处理，减少人力，去做更有价值的事情 🖐
 
 # ✨ Contributed
 
